@@ -1,0 +1,26 @@
+body {
+      background-image: url("cartes/carte.jpg");
+      background-size: cover;
+}
+
+
+.haut{
+  background-color:rgb(250, 235, 215,0.5);
+
+  position:relative;
+  top:100px;
+  left: 550px
+  right: 550px
+
+
+}
+h1{
+  padding-left:40%;
+padding-right: 100px;
+
+}
+
+img{
+  width: 100px;
+  height:180px;
+}
